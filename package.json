@@ -1,0 +1,15 @@
+{
+    "name": "sit737-week6-app",
+    "version": "1.0.0",
+    "description": "Node.js app for SIT737 Week 6.1P",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "krishna",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
